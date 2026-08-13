@@ -19,11 +19,11 @@ Goes by **Mozzo** in most corners of the internet. I work with system governance
 
 Feature-complete, running, and getting updates + issue triage as needed.
 
-**[pkg](https://github.com/Mozzo1000/pkg)** — a centralized registry for tracking upstream application releases, so you know when your self-hosted stack needs updating. *(part of the re:wake project)*
+**[pkg](https://github.com/Mozzo1000/pkg)** — a centralized registry for tracking upstream application releases, so you know when your self-hosted stack needs updating. *(part of [re:wake](https://rewake.org/))*
 
-**[image-converter](https://github.com/Mozzo1000/image-converter)** — a fast, private, in-browser image converter (PNG/JPEG/WEBP). No upload, no server, no tracking — everything happens client-side via the Canvas API. *(part of re:wake)*
+**[image-converter](https://github.com/Mozzo1000/image-converter)** — a fast, private, in-browser image converter (PNG/JPEG/WEBP). No upload, no server, no tracking — everything happens client-side via the Canvas API. *(part of [re:wake](https://rewake.org/))*
 
-**[curated-topics](https://github.com/Mozzo1000/curated-topics)** — powers [links.rewake.org](https://links.rewake.org), a minimal, high-performance personal link collection with instant search and keyboard-first navigation. *(part of re:wake)*
+**[curated-topics](https://github.com/Mozzo1000/curated-topics)** — powers [links.rewake.org](https://links.rewake.org), a minimal, high-performance personal link collection with instant search and keyboard-first navigation. *(part of [re:wake](https://rewake.org/))*
 
 **[Munchlist](https://github.com/Mozzo1000/munchlist)** 🛒 — a simple, mobile-first grocery shopping companion with smart autocomplete and category views.
 

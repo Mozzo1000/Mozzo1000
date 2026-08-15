@@ -11,15 +11,13 @@ Goes by **Mozzo** in most corners of the internet. I work with system governance
 
 **[BookLogr](https://github.com/Mozzo1000/booklogr)** 📚 — my biggest project, gets the most active development time. A self-hosted service to track your personal book library — search by title/ISBN via OpenLibrary, track reading progress, rate and annotate, share a public profile. Python/Flask + React.
 
-**[Cal](https://github.com/Mozzo1000/obsidian-cal)** 📅 — an Obsidian plugin for a year-at-a-glance calendar view, built on the "file over app" philosophy. Every event is a plain markdown note, with optional two-way Google Calendar sync.
-
 ---
 
 ### 🛠️ In maintenance
 
 Feature-complete, running, and getting updates + issue triage as needed.
 
-**[pkg](https://github.com/Mozzo1000/pkg)** — a centralized registry for tracking upstream application releases, so you know when your self-hosted stack needs updating. *(part of [re:wake](https://rewake.org/))*
+**[Crowdin Stats](https://github.com/Mozzo1000/crowdin-stats/)** — generates live, embeddable SVGs (translation progress table + contributor grid) for Crowdin projects, for use in GitHub READMEs. *(part of [re:wake](https://rewake.org/))*
 
 **[image-converter](https://github.com/Mozzo1000/image-converter)** — a fast, private, in-browser image converter (PNG/JPEG/WEBP). No upload, no server, no tracking — everything happens client-side via the Canvas API. *(part of [re:wake](https://rewake.org/))*
 
